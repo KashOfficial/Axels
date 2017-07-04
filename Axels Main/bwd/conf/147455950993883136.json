@@ -1,0 +1,26 @@
+{
+  "prefix": {
+    "data": "+",
+    "type": "String",
+    "possibles": []
+  },
+  "disabledCommands": {
+    "data": [],
+    "type": "Array"
+  },
+  "modRole": {
+    "data": "Staff",
+    "type": "String",
+    "possibles": []
+  },
+  "adminRole": {
+    "data": "Devs",
+    "type": "String",
+    "possibles": [271695428209082368]
+  },
+  "lang": {
+    "data": "en",
+    "type": "String",
+    "possibles": []
+  }
+}
